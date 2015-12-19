@@ -1,1 +1,1 @@
-# gorever-poc
+# gorever (Proof of Concept)
