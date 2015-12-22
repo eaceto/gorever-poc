@@ -1,5 +1,9 @@
 # gorever (Proof of Concept)
 
+## Dependencies
+
+    go get gopkg.in/alecthomas/kingpin.v2 github.com/Sirupsen/logrus github.com/inconshreveable/go-update
+
 ## Steps to run
 
 ### Generate executable file
